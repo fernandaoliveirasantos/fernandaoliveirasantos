@@ -1,16 +1,18 @@
-### Hi there 👋
+# Olá meu nome é Fernanda👋
 
-<!--
-**fernandaoliveirasantos/fernandaoliveirasantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Fernanda Oliveira, me encontro em processo de transição de carreira para área de T.I atualmente cursando faculdade de Banco de dados pela PUC. Gosto muito dos assuntos de tecnologia, inovação e ciência de dados.
 
-Here are some ideas to get you started:
+## Skills
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Detalhes
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandaoliveirasantos&show_icons=true&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaoliveirasantos&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Repositórios Importantes
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaoliveirasantos&theme=radical)](https://github.com/fernandaoliveirasantos/github-readme-stats)
+
+## Minhas Redes Sociais
+![https://www.linkedin.com/in/fernanda-oliveira-6b8aa11b0/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
