@@ -1,6 +1,6 @@
 # Olá meu nome é Fernanda👋
 
-Sou Fernanda Oliveira, me encontro em processo de transição de carreira para área de T.I atualmente cursando faculdade de Banco de dados pela PUC. Gosto muito dos assuntos de tecnologia, inovação e ciência de dados.
+Sou Fernanda Oliveira, em processo de transição de carreira para área de T.I atualmente cursando faculdade de Banco de dados pela PUC. Gosto muito dos assuntos de tecnologia, inovação e ciência de dados.
 
 ## Skills
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
