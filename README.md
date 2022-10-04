@@ -33,4 +33,3 @@ Sou Fernanda Oliveira, em processo de transição de carreira para área de T.I.
 
 
 🧠"Seja você mesmo, todos os outros já existem."
-🧠"Não nascemos com raízes, nacemos com pés e mudanças são necessárias"
