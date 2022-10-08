@@ -5,7 +5,7 @@ Sou Fernanda Oliveira, em processo de transição de carreira para área de T.I.
 
 🌱Atualmente estou estudando e me qualificando.
 
-🚀Estudante de Ciências de Dados pela PUC
+🚀Estudante de Banco de Dados pela PUC
 
 📫Meu email: fernandaoliveira_santos@outlook.com
 
