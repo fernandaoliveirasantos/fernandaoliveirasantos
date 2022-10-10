@@ -15,8 +15,6 @@ Sou Fernanda Oliveira, em processo de transição de carreira para área de T.I.
 
 📂Expandir meu portfólio
 
-🤝Contribuir em projetos open-source
-
 📈Conseguir experiência na área
 
 ## Detalhes
@@ -29,7 +27,6 @@ Sou Fernanda Oliveira, em processo de transição de carreira para área de T.I.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaoliveirasantos&theme=radical)](https://github.com/fernandaoliveirasantos/github-readme-stats)
 
 ## Minhas Redes Sociais
-![https://www.linkedin.com/in/fernanda-oliveira-6b8aa11b0/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
+https://www.linkedin.com/in/fernanda-oliveira-6b8aa11b0/
 
 🧠"Seja você mesmo, todos os outros já existem."
