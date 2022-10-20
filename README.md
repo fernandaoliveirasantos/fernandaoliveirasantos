@@ -29,4 +29,3 @@ Sou Fernanda Oliveira, em processo de transição de carreira para área de T.I.
 ## Minhas Redes Sociais
 https://www.linkedin.com/in/fernanda-oliveira-6b8aa11b0/
 
-🧠"Seja você mesmo, todos os outros já existem."
