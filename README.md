@@ -5,7 +5,7 @@ Sou Fernanda Oliveira, em processo de transição de carreira para área de T.I.
 
 🌱Atualmente estou estudando e me qualificando.
 
-🚀Estudando de Engenharia de Dados pela PUC
+🚀Estudando Banco de Dados pela PUC
 
 
 
